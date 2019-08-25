@@ -1,0 +1,14 @@
+D:\TrainingKits\Aksl\Aksl.BulkInsert\Aksl.BulkInsert\bin\Debug\netstandard2.0\Aksl.BulkInsert.deps.json
+D:\TrainingKits\Aksl\Aksl.BulkInsert\Aksl.BulkInsert\bin\Debug\netstandard2.0\Aksl.BulkInsert.dll
+D:\TrainingKits\Aksl\Aksl.BulkInsert\Aksl.BulkInsert\bin\Debug\netstandard2.0\Aksl.BulkInsert.pdb
+D:\TrainingKits\Aksl\Aksl.BulkInsert\Aksl.BulkInsert\bin\Debug\netstandard2.0\Aksl.Concurrency.dll
+D:\TrainingKits\Aksl\Aksl.BulkInsert\Aksl.BulkInsert\bin\Debug\netstandard2.0\Aksl.Pipeline.dll
+D:\TrainingKits\Aksl\Aksl.BulkInsert\Aksl.BulkInsert\bin\Debug\netstandard2.0\Aksl.Concurrency.pdb
+D:\TrainingKits\Aksl\Aksl.BulkInsert\Aksl.BulkInsert\bin\Debug\netstandard2.0\Aksl.Pipeline.pdb
+D:\TrainingKits\Aksl\Aksl.BulkInsert\Aksl.BulkInsert\obj\Debug\netstandard2.0\Aksl.BulkInsert.csprojAssemblyReference.cache
+D:\TrainingKits\Aksl\Aksl.BulkInsert\Aksl.BulkInsert\obj\Debug\netstandard2.0\Aksl.BulkInsert.csproj.CoreCompileInputs.cache
+D:\TrainingKits\Aksl\Aksl.BulkInsert\Aksl.BulkInsert\obj\Debug\netstandard2.0\Aksl.BulkInsert.AssemblyInfoInputs.cache
+D:\TrainingKits\Aksl\Aksl.BulkInsert\Aksl.BulkInsert\obj\Debug\netstandard2.0\Aksl.BulkInsert.AssemblyInfo.cs
+D:\TrainingKits\Aksl\Aksl.BulkInsert\Aksl.BulkInsert\obj\Debug\netstandard2.0\Aksl.BulkInsert.csproj.CopyComplete
+D:\TrainingKits\Aksl\Aksl.BulkInsert\Aksl.BulkInsert\obj\Debug\netstandard2.0\Aksl.BulkInsert.dll
+D:\TrainingKits\Aksl\Aksl.BulkInsert\Aksl.BulkInsert\obj\Debug\netstandard2.0\Aksl.BulkInsert.pdb
